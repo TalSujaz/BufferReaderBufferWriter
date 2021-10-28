@@ -1,0 +1,4 @@
+John
+Name: John
+Age:40
+Location:Israel
